@@ -66,3 +66,56 @@ We extend our gratitude to:
 - The panel of experts at MVGR College of Engineering
 
 ---
+
+
+## Welcome Page
+![Welcome](FeedTheNeed/screenshots/Screenshot%2024-10-07%233004.png)
+
+## Register page
+![Register](FeedTheNeed/screenshots/Screenshot%2024-10-07%233058.png)
+
+
+
+
+
+
+
+
+Screenshot 2024-10-07 230029.png
+Add files via upload
+4 minutes ago
+Screenshot 2024-10-07 231015.png
+Add files via upload
+4 minutes ago
+Screenshot 2024-10-07 232932.png
+Add files via upload
+4 minutes ago
+Screenshot 2024-10-07 232951.png
+Add files via upload
+4 minutes ago
+
+Add files via upload
+4 minutes ago
+Screenshot 2024-10-07 233058.png
+Add files via upload
+4 minutes ago
+Screenshot 2024-10-07 233430.png
+Add files via upload
+4 minutes ago
+Screenshot 2024-10-07 233821.png
+Add files via upload
+4 minutes ago
+Screenshot 2024-10-07 233831.png
+Add files via upload
+4 minutes ago
+Screenshot 2024-10-07 233840.png
+Add files via upload
+4 minutes ago
+Screenshot 2024-10-07 233907.png
+Add files via upload
+4 minutes ago
+Screenshot 2024-10-08 001058.png
+
+
+
+
